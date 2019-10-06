@@ -8,6 +8,8 @@ class Anagram
   end
   
   def match(x)
+    @detector
+    
   end
   
 end
