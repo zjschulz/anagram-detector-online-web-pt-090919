@@ -9,11 +9,7 @@ class Anagram
   
   def match(word)
     word.each do |x|
-      if x.split("") == @detector.split("")
-        x
-      else
-        nil
-      end
+      x.split("") == @detector.split("")
     end
   end
   
