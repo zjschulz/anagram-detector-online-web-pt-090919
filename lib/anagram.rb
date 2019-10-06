@@ -8,7 +8,8 @@ class Anagram
   end
   
   def match(word)
-  @detector.split("")
+  word
+  #@detector.split("")
   end
   
 end
