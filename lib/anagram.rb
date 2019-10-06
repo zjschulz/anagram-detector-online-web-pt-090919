@@ -7,9 +7,8 @@ class Anagram
     @detector = detector
   end
   
-  def match(x)
-    @detector
-    %w(x)
+  def match(word)
+  word
   end
   
 end
