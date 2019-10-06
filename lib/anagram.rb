@@ -9,7 +9,6 @@ class Anagram
   
   def match(word)
   @detector
-  word
   end
   
 end
