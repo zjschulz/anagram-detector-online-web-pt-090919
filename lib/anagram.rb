@@ -7,4 +7,7 @@ class Anagram
     @detector = detector
   end
   
+  def
+end
+  
 end
