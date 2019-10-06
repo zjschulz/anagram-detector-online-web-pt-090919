@@ -12,6 +12,7 @@ class Anagram
       if x.split("") == @detector.split("")
         x
       else
+        nil
       end
     end
   end
