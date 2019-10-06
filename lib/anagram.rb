@@ -8,8 +8,10 @@ class Anagram
   end
   
   def match(word)
-  word
-  #@detector.split("")
+  word.each do |x|
+    if x.split("") == @detector.split("")
+    else
+    end
   end
   
 end
