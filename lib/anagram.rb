@@ -7,7 +7,7 @@ class Anagram
     @detector = detector
   end
   
-  def match(x)
+  def self.match(x)
   end
   
 end
