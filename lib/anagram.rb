@@ -9,7 +9,7 @@ class Anagram
   
   def match(x)
     @detector
-    
+    x
   end
   
 end
